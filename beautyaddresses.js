@@ -19,7 +19,7 @@ const beauty_locations = {
         "crossStreet": "at Santona St",
         "postalCode": "33146",
         "state": "FL",
-        "text": "Coral Gables Beauty Square",
+        "text": "My Suite!@BeautySquare Coral Gables",
       }
     },
     {
@@ -59,7 +59,7 @@ const beauty_locations = {
      "country": "United States",
      "postalCode": "33157",
      "state": "FL",
-     "text": "Cutler Bay Beauty Square",
+     "text": "My Suite!@BeautySquare Cutler Bay",
     
     }
    },
@@ -79,7 +79,7 @@ const beauty_locations = {
      "country": "United States",
      "postalCode": "33178",
      "state": "FL",
-     "text": "Doral Beauty Square",
+     "text": "My Suite!@BeautySquare Doral",
      
     }
    },
@@ -99,7 +99,7 @@ const beauty_locations = {
      "country": "United States",
      "postalCode": "33012",
      "state": "FL",
-     "text": "Hialeah Beauty Square",
+     "text": "My Suite!@BeautySquare Hialeah",
 
     }
    },
@@ -119,7 +119,7 @@ const beauty_locations = {
      "country": "United States",
      "postalCode": "33186",
      "state": "FL",
-     "text": "Kendall Beauty Square",
+     "text": "My Suite!@BeautySquare Kendall",
    
     }
    },
@@ -139,7 +139,7 @@ const beauty_locations = {
      "country": "United States",
      "postalCode": "33073",
      "state": "FL",
-     "text": "Margate Beauty Square",
+     "text": "My Suite!@BeautySquare Margate",
     
     }
    },
@@ -159,7 +159,7 @@ const beauty_locations = {
      "country": "United States",
      "postalCode": "33127",
      "state": "FL",
-     "text": "Midtown Beauty Square",
+     "text": "My Suite!@BeautySquare Midtown",
  
     }
    },
@@ -199,7 +199,7 @@ const beauty_locations = {
      "country": "United States",
      "postalCode": "33322",
      "state": "FL",
-     "text": "Plantation Beauty Square",
+     "text": "My Suite!@BeautySquare Plantation",
     
     }
    },
@@ -239,7 +239,7 @@ const beauty_locations = {
      "country": "United States",
      "postalCode": "33321",
      "state": "FL",
-     "text": "Tamarac Beauty Square",
+     "text": "My Suite!@BeautySquare Tamarac",
      
     }
    },
@@ -259,7 +259,47 @@ const beauty_locations = {
      "country": "United States",
      "postalCode": "33174",
      "state": "FL",
-     "text": "West Flagler Beauty Square",
+     "text": "My Suite!@BeautySquare West Flagler",
+    
+    }
+   },
+    {
+     "type": "Feature",
+     "geometry": {
+     "type": "Point",
+     "coordinates": [
+    -80.3033844,
+    26.1091693 ]
+   },
+   "properties": {
+
+
+     "address": "11336 W. State Road 84",
+     "city": "Davie",
+     "country": "United States",
+     "postalCode": "33325",
+     "state": "FL",
+     "text": "My Suite!@BeautySquare Davie",
+    
+    }
+   },
+    {
+     "type": "Feature",
+     "geometry": {
+     "type": "Point",
+     "coordinates": [
+    -80.340426,
+    25.8247917 ]
+   },
+   "properties": {
+
+
+     "address": "5645 NW 87th Ave",
+     "city": "Doral",
+     "country": "United States",
+     "postalCode": "33178",
+     "state": "FL",
+     "text": "My Suite!@BeautySquare Doral 87",
     
     }
    },
@@ -279,7 +319,7 @@ const beauty_locations = {
      "country": "United States",
      "postalCode": "33193",
      "state": "FL",
-     "text": "West Kendall Beauty Square",
+     "text": "My Suite!@BeautySquare West Kendall",
      
     }
    }
